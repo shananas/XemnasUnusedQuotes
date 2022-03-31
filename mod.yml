@@ -1,0 +1,9 @@
+title: Armored Xemnas Alternate Quotes
+originalAuthor: 13th Vessel
+game: kh2
+description: Unused Quotes put over AX2 made by 13th Vessel https://www.youtube.com/watch?v=1GXsT5tp0N0 Ported by shananas.
+assets:
+- name: obj/B_EX180.mset
+  method: copy
+  source:
+  - name: obj/B_EX180.mset
